@@ -1,5 +1,5 @@
 ---
-title: Github Blog background
+title:  Blog background
 layout: post
 author: jaymin.bhatt
 permalink: /github-blog-background/
