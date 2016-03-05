@@ -1,6 +1,5 @@
 ---
-title: GITHUB blog 4TH MARCH 
-
+title: 4/3/16 blog
 layout: post
 author: jaymin.bhatt
 permalink: /4/3/16-blog/
