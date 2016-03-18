@@ -60,3 +60,7 @@ Botnet/ Zombienet
 
 A Botnet, is a number of computers, working together simultaneously, they can communicate by sending messages to each other and controlling each other. They can send spam to your email account continuously. He word Botnet, is a mix between the words network and robot.
 
+Prezi
+
+In today's lesson, we looked at a new presentation creator called Prezi. Prezi takes you to another dimension, with advanced tools in this website. There are a lot of tools such as images, youtube links and colours. Colours are very limited as black and white are there for you to use whereas you have to choose three colours that you think will work together well. In addition, you want to make your presentation more appealing rather than a google slide, which doesn't have as much tools as Prezi.
+
