@@ -14,21 +14,22 @@
 /**************/
 
 html {
-  font-size: 100%;
-}
+    font-size: 100%;
+  }
       
 body {
-       background: url(http://www.wallpapereast.com/wallpaper-cool#static/images/Cool-Wallpaper-206.jpg);
-   background-attachment: fixed;	
-   font: 18px/1.4  $helvetica;
-   color: #f2f2f2;
-}
+        background: url(http://www.wallpapereast.com/wallpaper-cool#static/images/Cool-Wallpaper-206.jpg);
+   background-repeat: no-repeat;
+   background-attachment: fixed; 	
+   font: 18px/1.4 $helvetica;
+   color: #ffffff;
+ }  	
 
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
+ .container {
+   margin: 0 auto;
+   max-width: 740px;
+   padding: 0 10px;
+   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -273,7 +274,7 @@ nav {
 }
 
 .wrapper-footer {
-  
+  margin-top: 50px
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: http://cdn.wallpapersafari.com/12/0/egQL2Y.jpg;
